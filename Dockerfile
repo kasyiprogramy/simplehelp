@@ -1,4 +1,4 @@
-ROM debian:jessie
+FROM debian:jessie
 
 EXPOSE 80 443
 
