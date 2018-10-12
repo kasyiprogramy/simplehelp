@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-EXPOSE 80 443
+EXPOSE 22 80 443
 
 ADD script/ /home/
 
